@@ -13,7 +13,7 @@
 Добавьте следующую строку в Gemfile вашего приложения:
 
 ```
-gem 'ecwid_api'
+gem 'ekam-ruby'
 ```
 
 Затем выполните команду:
@@ -25,7 +25,7 @@ $ bundle
 Или установите gem самостоятельно:
 
 ```
-$ gem install ecwid_api
+$ gem install ekam-ruby
 ```
 
 ## Примеры использования
